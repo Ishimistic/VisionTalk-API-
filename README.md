@@ -33,7 +33,7 @@ This script runs a Flask server that accesses the BLIP Image Captioning base mod
 
 **Start the server:**
 ```bash
-python Practice/main.py
+python /main.py
 ```
 *(Runs on `http://127.0.0.1:5000/` by default)*
 
@@ -54,7 +54,7 @@ This script runs a Flask server that accesses the BLIP VQA base model to answer 
 
 **Start the server:**
 ```bash
-python Practice/qna.py
+python /qna.py
 ```
 *(Runs on `http://127.0.0.1:5000/` by default)*
 
