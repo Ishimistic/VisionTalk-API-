@@ -1,4 +1,4 @@
-# Vision-Language Model (VLM) Flask API
+# VisionTalk API  API
 
 This project provides two simple Flask APIs for Vision-Language tasks using Hugging Face's BLIP models. It includes endpoints for **Image Captioning** and **Visual Question Answering (VQA)**.
 
